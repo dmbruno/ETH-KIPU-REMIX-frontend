@@ -199,7 +199,7 @@ function App() {
       <div className="header">
         <div className="header-content">
           <div className="header-info">
-            <h1 className="title">Mural ETH-KIPU</h1>
+            <h1 className="title">MURAL ETH-KIPU</h1>
             <div className="contract-info">
               Contrato: {wallAddress}
             </div>
